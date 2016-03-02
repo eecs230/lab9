@@ -1,6 +1,4 @@
-#include <iostream>
-
-using namespace std;
+#include "eecs230.h"
 
 // implement fun_sum function here
 
@@ -28,6 +26,9 @@ int main() {
 //	maxd = fun_max(ad,bd);
 	print(sumd, "double: ad + bd = ");
 	print(maxd, "double: max(ad,bd) = ");
+
+	// add a test case here
+
 
 	return 0;
 }
