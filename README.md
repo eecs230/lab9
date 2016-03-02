@@ -3,9 +3,10 @@ In this lab, we will work on `Template` and `Inheritance` through exercises.
 
 # Exercises
 ## Template </br>
+0. In your prior homework and lab assignments, where have you used templates before?
 1. Implement template functions for (1) summing of two numbers (or objects) and (2) choosing the max value between two numbers. </br>
-2. Write a test case with a different type of numbers in main(). </br> </br>
-3. Create a new struct of your choice, and show that it could be passed as arguments into the Template<typename T> functions you created.
+2. Write a test case with a different type of numbers in main(). </br>
+3. Create a new struct of your choice, and show that it could be passed as arguments into the Template<typename T> functions you created. </br>
 
 ## Inheritance </br>
 3. Implement a function, `area()`, in `Rectangle` class, and discuss it with your partner. </br>
