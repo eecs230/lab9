@@ -3,8 +3,8 @@ In this lab, we will review and work on `Template` and `Inheritance` through exe
 
 # Exercise
 (Template) </br>
-1. Implement template functions for (1) returning the sum of two numbers (or objects) and (2) returning the greater value between two numbers. </br>
-2. Write a test case with different type of numbers in main(). </br> </br>
+1. Implement template functions for (1) summing of two numbers (or objects) and (2) choosing the max value between two numbers. </br>
+2. Write a test case with a different type of numbers in main(). </br> </br>
 (Inheritance) </br>
 3. Implement a function, `area()`, in `Rectangle` class, and discuss about it with your partner. </br>
 4. Implement another class, `Triangle`, derived from `Polygon`. and write the similar test codes in main(). </br>
